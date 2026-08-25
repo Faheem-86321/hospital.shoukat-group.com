@@ -1,0 +1,69 @@
+# Created By: Faheem Ullah
+# Dated: Octber 21, 2019
+# Purpose: HTACCESS
+# Project: admin
+# Denying Directory Access
+
+RewriteEngine on
+# Dashboard --------------------------------------------------------
+RewriteRule ^dashboard$ index.php?page=Dashboard&page=Dashboard [QSA,NC,L]
+RewriteRule ^outdoor_dashboard$ index.php?page=Outdoor_dashboard&page=Outdoor_dashboard [QSA,NC,L]
+# ----------------------------------------------------
+#Logout-----------------------------------------------
+RewriteRule ^logout$ index.php?page=Logout&page=Logout [QSA,NC,L]
+# ----------------------------------------------------
+#Change password--------------------------------------
+RewriteRule ^changepassword$ index.php?page=Change_password&page=Change_password [QSA,NC,L]
+# ----------------------------------------------------
+#Setting-------------------------------------
+RewriteRule ^profile$ index.php?page=Profile&page=Profile [QSA,NC,L]
+RewriteRule ^companyprofile$ index.php?page=Companyprofile&page=Companyprofile [QSA,NC,L]
+# -----------------------------------------------
+#Doctors--------------------------------------
+RewriteRule ^doctors$ index.php?page=Doctors&page=Doctors [QSA,NC,L]
+# ----------------------------------------------------
+#Patient Registration-------------------------------------
+RewriteRule ^outdoor$ index.php?page=Outdoor&page=Outdoor [QSA,NC,L]
+# ----------------------------------------------------
+#Doctor_ledger_outdoor -------------------------------------
+RewriteRule ^doctor_ledger_outdoor$ index.php?page=Doctor_ledger_outdoor&page=Doctor_ledger_outdoor [QSA,NC,L]
+RewriteRule ^report_outdoor$ index.php?page=Report_outdoor&page=Report_outdoor [QSA,NC,L]
+# ----------------------------------------------------
+#Other_Services -------------------------------------
+RewriteRule ^other_services_slip$ index.php?page=Other_services_slip&page=Other_services_slip [QSA,NC,L]
+RewriteRule ^other_services_types$ index.php?page=Other_services_types&page=Other_services_types [QSA,NC,L]
+# ----------------------------------------------------
+#User-----------------------------------------------
+RewriteRule ^users$ index.php?page=Users&page=Users [QSA,NC,L]
+RewriteRule ^user_profile$ index.php?page=User_profile&page=User_profile [QSA,NC,L]
+# ----------------------------------------------------
+#Payroll-----------------------------------------------
+RewriteRule ^payroll$ index.php?page=Payroll&page=Payroll [QSA,NC,L]
+# ----------------------------------------------------
+#Expense-----------------------------------------------
+RewriteRule ^expense$ index.php?page=Expense&page=Expense [QSA,NC,L]
+RewriteRule ^product_inventory$ index.php?page=Product_inventory&page=Product_inventory [QSA,NC,L]
+# ----------------------------------------------------
+#Indoor-----------------------------------------------
+RewriteRule ^cases_list$ index.php?page=Cases_list&page=Cases_list [QSA,NC,L]
+RewriteRule ^doctor_fee$ index.php?page=Doctor_fee&page=Doctor_fee [QSA,NC,L]
+RewriteRule ^private_patient$ index.php?page=Private_patient&page=Private_patient [QSA,NC,L]
+RewriteRule ^rooms$ index.php?page=Rooms&page=Rooms [QSA,NC,L]
+RewriteRule ^private_dialysis$ index.php?page=Private_dialysis&page=Private_dialysis [QSA,NC,L]
+RewriteRule ^private_indoor_dashboard$ index.php?page=Private_indoor_dashboard&page=Private_indoor_dashboard [QSA,NC,L]
+RewriteRule ^doctor_ledger_indoor_private$ index.php?page=Doctor_ledger_indoor_private&page=Doctor_ledger_indoor_private [QSA,NC,L]
+RewriteRule ^doctor_report_indoor_private$ index.php?page=Doctor_report_indoor_private&page=Doctor_report_indoor_private [QSA,NC,L]
+# ----------------------------------------------------
+#Health_Card_Indoor-----------------------------------------------
+RewriteRule ^cases_list_health_card$ index.php?page=Cases_list_health_card&page=Cases_list_health_card [QSA,NC,L]
+RewriteRule ^doctor_fee_health_card$ index.php?page=Doctor_fee_health_card&page=Doctor_fee_health_card [QSA,NC,L]
+RewriteRule ^health_card_patient$ index.php?page=Health_card_patient&page=Health_card_patient [QSA,NC,L]
+RewriteRule ^health_card_dialysis$ index.php?page=Health_card_dialysis&page=Health_card_dialysis [QSA,NC,L]
+RewriteRule ^health_card_indoor_dashboard$ index.php?page=Health_card_indoor_dashboard&page=Health_card_indoor_dashboard [QSA,NC,L]
+RewriteRule ^doctor_ledger_indoor_health_card$ index.php?page=Doctor_ledger_indoor_health_card&page=Doctor_ledger_indoor_health_card [QSA,NC,L]
+RewriteRule ^doctor_report_indoor_health_card$ index.php?page=Doctor_report_indoor_health_card&page=Doctor_report_indoor_health_card [QSA,NC,L]
+# ----------------------------------------------------
+RewriteRule ^assets$ index.php?page=Assets&page=Assets [QSA,NC,L]
+RewriteRule ^files_card_patient$ index.php?page=Files_card_patient&page=Files_card_patient [QSA,NC,L]
+RewriteRule ^files_card_recieved_payment$ index.php?page=Files_card_recieved_payment&page=Files_card_recieved_payment [QSA,NC,L]
+RewriteRule ^service_ledger$ index.php?page=Service_ledger&page=Service_ledger [QSA,NC,L]

@@ -1,0 +1,39 @@
+# Created By: Faheem Ullah
+# Dated: Octber 21, 2019
+# Purpose: HTACCESS
+# Project: admin
+# Denying Directory Access
+
+RewriteEngine on
+# Dashboard --------------------------------------------------------
+RewriteRule ^dashboard$ index.php?page=Dashboard&page=Dashboard [QSA,NC,L]
+# ----------------------------------------------------
+#Logout-----------------------------------------------
+RewriteRule ^logout$ index.php?page=Logout&page=Logout [QSA,NC,L]
+# ----------------------------------------------------
+#Setting-------------------------------------
+RewriteRule ^profile$ index.php?page=Profile&page=Profile [QSA,NC,L]
+# ----------------------------------------------------
+#Patient Registration-------------------------------------
+RewriteRule ^outdoor$ index.php?page=Outdoor&page=Outdoor [QSA,NC,L]
+RewriteRule ^outdoor_dailybook$ index.php?page=Outdoor_dailybook&page=Outdoor_dailybook [QSA,NC,L]
+RewriteRule ^doctor_ledger_outdoor$ index.php?page=Doctor_ledger_outdoor&page=Doctor_ledger_outdoor [QSA,NC,L]
+RewriteRule ^indoor$ index.php?page=Indoor&page=Indoor [QSA,NC,L]
+# ----------------------------------------------------
+#Services-------------------------------------
+RewriteRule ^other_services_slip$ index.php?page=Other_services_slip&page=Other_services_slip [QSA,NC,L]
+# ----------------------------------------------------
+#Doctors--------------------------------------
+RewriteRule ^doctors$ index.php?page=Doctors&page=Doctors [QSA,NC,L]
+# ----------------------------------------------------
+#Expense-----------------------------------------------
+RewriteRule ^expense$ index.php?page=Expense&page=Expense [QSA,NC,L]
+# ----------------------------------------------------
+#Indoor-----------------------------------------------
+RewriteRule ^private_patient$ index.php?page=Private_patient&page=Private_patient [QSA,NC,L]
+RewriteRule ^private_dialysis$ index.php?page=Private_dialysis&page=Private_dialysis [QSA,NC,L]
+# ----------------------------------------------------
+#Health_Card_Indoor-----------------------------------------------
+RewriteRule ^health_card_patient$ index.php?page=Health_card_patient&page=Health_card_patient [QSA,NC,L]
+RewriteRule ^health_card_dialysis$ index.php?page=Health_card_dialysis&page=Health_card_dialysis [QSA,NC,L]
+# ----------------------------------------------------

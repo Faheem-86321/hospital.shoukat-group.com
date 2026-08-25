@@ -1,0 +1,11 @@
+#Created By: Faheem Ullah
+# Dated: Octber 21, 2019
+# Purpose: HTACCESS
+# Project: Shoukat Surgical Hospital CRM
+# Denying Directory Access
+
+RewriteEngine on
+# Login --------------------------------------------------------
+RewriteRule ^$ index.php?page=Login [QSA,NC,L]
+RewriteRule ^login$ index.php?page=Login [QSA,NC,L]
+# ----------------------------------------------------

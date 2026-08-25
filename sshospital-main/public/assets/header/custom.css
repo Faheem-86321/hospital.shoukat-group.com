@@ -1,0 +1,336 @@
+ @media screen and (max-width: 1414px) {
+    
+    .date_time_div{
+        display: none;
+    }
+}
+@media screen and (max-width: 1030px) {
+    
+    .logo-box{
+        display: none;
+    }
+}
+.btn-success{
+    background-color: #f24c4f;
+    color: black !important;
+    border: none;
+}
+.btn-primary{
+    background-color: black;
+    border: none;
+}
+.btn-danger{
+    background-color: red;
+    border: none;
+}
+.btn-success:hover{
+    opacity: 0.2px;
+    background-color: #f24c4f;
+    color: black !important;
+    border: none;
+}
+.btn-primary:hover{
+    opacity: 0.2px;
+    background-color: black;
+    border: none;
+}
+.btn-danger: hover{
+    opacity: 0.2px;
+    background-color: red;
+    border: none;
+}
+
+.btn-success:{
+    opacity: 0.2px;
+    background-color: #f24c4f;
+    color: black !important;
+    border: none;
+}
+.btn-primary:{
+    opacity: 0.2px;
+    background-color: black;
+    border: none;
+}
+.btn-danger: {
+    opacity: 0.2px;
+    background-color: red;
+    border: none;
+}
+
+.modal-header{
+    background-color: black;
+    color: white;
+}
+.modal-header h4{
+    
+    color: white;
+}
+.modal-header button{
+    
+    color: white;
+}
+
+
+@media screen and (max-width:768px){
+    .bodyoftable{
+        overflow-x: scroll !important;
+        
+    }
+}
+@media screen and (max-width:1400px){
+    .removeonsmalldevice{
+        display: none;
+    }
+}
+
+
+
+:root {
+  --darkgreen: black;
+  --white: black;
+}
+
+
+
+.tabs-to-dropdown .nav-wrapper {
+    padding-top: 20px;
+}
+
+.tabs-to-dropdown .nav-wrapper a {
+  color: var(--darkgreen);
+
+}
+
+.tabs-to-dropdown .nav-pills .nav-link.active {
+  background-color: #f24c4f;
+  color: black;
+
+}
+.tabs-to-dropdown .nav-pills .nav-link{
+  background-color: grey;
+}
+
+.tabs-to-dropdown .nav-pills li:not(:last-child) {
+  margin-right: 3px;
+}
+
+.tabs-to-dropdown .tab-content .container-fluid {
+ background: white;   
+ max-width: 1250px;
+ padding-top: 30px;
+}
+
+.tabs-to-dropdown .dropdown-menu {
+  border: none;
+  
+}
+
+.tabs-to-dropdown .dropdown-item {
+  /*padding: 14px 28px;*/
+}
+
+.tabs-to-dropdown .dropdown-item:active {
+  color: black !important;
+}
+
+@media (min-width: 1280px) {
+  .tabs-to-dropdown .nav-wrapper {
+    /*padding: 15px 30px;*/
+    border-bottom: 3px solid green ;
+}
+}
+@media (max-width: 768px) {
+  .nav-item{
+    /*padding: 15px 30px;*/
+    margin-top: 12px !important;
+}
+}
+
+.file-upload {
+  background-color: #ffff;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.file-upload-btn {
+  width: 100%;
+  margin: 0;
+  color: black;
+  background: #f24c4f;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  border-bottom: 4px solid #f24c4f;
+  transition: all .2s ease;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.file-upload-btn:active {
+  border: 0;
+  transition: all .2s ease;
+}
+
+.file-upload-content {
+  display: none;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.file-upload-input {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.image-upload-wrap {
+  padding-bottom: 30px;
+  position: relative;
+}
+
+.image-dropping:hover {
+  background-color: #f24c4f;
+  border: 4px dashed black;
+}
+
+.image-title-wrap {
+  color: #f24c4f;
+}
+
+.drag-text {
+  text-align: center;
+}
+
+.drag-text h4 {
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #f24c4f;
+  padding: 60px 0;
+}
+
+.bodyoftable{
+    margin-top:30px
+}
+.card-table-style  button{
+    background: #f24c4f !important;
+    color: black !important;
+    border: 0px ;
+}
+table thead tr th{
+    text-align: center !important;
+}
+table tbody tr td{
+    text-align: center !important;
+}
+.card-table-style input{
+    border: 1px solid #f24c4f !important;
+    margin-bottom: 20px !important;
+
+}
+.card-table-style table th{
+    border: 1px solid #f24c4f !important;
+    color: black !important;
+    font-weight: bold;
+}
+.card-table-style table td{
+    color: black !important;
+}
+@media screen and (max-width: 768px) {
+  .card-table-style{
+    overflow-x: scroll !important;
+}
+}
+
+.card-table-style  button{
+    background: #f24c4f !important;
+    color: black !important;
+    font-weight: bold;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current{
+    color: black !important;
+    background: #f24c4f !important;
+}
+
+
+#sidebaruser .nav-second-level li a
+{
+    color: white !important;
+}
+#sidebaruser .nav-second-level li a.active
+{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,0.5) 0%, rgba(251,250,246,0.5) 100%);
+}
+
+.left-side-menu
+{
+    background: black;
+}
+#sidebar-menu > ul > li > a, #sidebaruser .nav-second-level li a {
+  box-shadow: inset 0 0 0 0 #f24c4f;
+  color: white !important;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+#sidebar-menu > ul > li > a:hover,#sidebaruser .nav-second-level li a:hover {
+  box-shadow: inset 250px 0 0 0 #f24c4f;
+  color: black !important;
+}
+#sidebar-menu > ul > li > a:focus, #sidebar-menu > ul > li > a:active {
+  background: #f24c4f;
+  color: black !important;
+}
+#sidebar-menu .menuitem-active .active {
+    background: #f24c4f;
+    color: black !important;
+}
+#sidebaruser .nav-second-level li a
+{
+    color: white !important;
+}
+#sidebaruser .nav-second-level li a.active
+{
+    background: #f24c4f;
+}
+#sidebar-menu #side-menu .menu-title
+{
+    font-weight: 600;
+    font-weight: bold;
+}
+.left-side-menu
+{
+    background-color: black !important;
+}
+#sidebar-menu > ul > li > a:hover, #sidebar-menu > ul > li > a:focus, #sidebar-menu > ul > li > a:active {
+  background: rgb(255,255,255);
+  background: #f24c4f;
+}
+#sidebar-menu .menuitem-active .active {
+    background: rgb(255,255,255);
+    background: #f24c4f;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#sidebar-menu > ul > li > a:hover, #sidebar-menu > ul > li > a:focus, #sidebar-menu > ul > li > a:active {
+  color: black;
+  background-color: #f24c4f !important;
+  text-decoration: none; }
+
+  #sidebar-menu .menuitem-active > a {
+      color: black; background-color: #f24c4f !important; }
+
+      #sidebar-menu .menuitem-active .active {
+          color: black;  background-color: #f24c4f !important;}
+          #btnwizard .nav .active{
+            background: #f24c4f;
+            color: black;
+        }
