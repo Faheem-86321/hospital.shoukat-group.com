@@ -1,0 +1,210 @@
+[13-Feb-2026 11:25:19 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:20 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:20 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:20 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:20 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:21 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:21 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:22 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:23 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:24 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:24 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:27 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
+[13-Feb-2026 11:25:45 Asia/Karachi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.medicine_expenses' in 'SELECT' in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php:49
+Stack trace:
+#0 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php(49): mysqli_query()
+#1 /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/index.php(33): include_once('/home/u71943215...')
+#2 {main}
+  thrown in /home/u719432153/domains/shoukat-group.com/public_html/hospital/admin/template/Doctor_report_indoor_private.html.php on line 49
